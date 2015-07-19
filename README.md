@@ -1,8 +1,11 @@
 AsyncWorldEdit
 ==============
-The developement of this project has been moved to private premium version
-of AsyncWorldEdit. For details please go to: [AsyncWorldEdit - Premium](https://github.com/SBPrime/AsyncWorldEdit-Premium)
 
+The original developer (@SBPRime) recently made the decision to abandon this version of AsyncWorldEdit in favor of a paid, proprietary version (available on the Spigot forums). This fork strives to keep AsyncWorldEdit up to date and (relatively) bug free.
+
+Pull requests welcome.
+
+* * *
 
 Async WorldEdit - Edit millions of blocks without lag!
 
